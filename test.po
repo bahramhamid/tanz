@@ -9,3 +9,11 @@ msgstr "Gasne magline"
 #: finddialog.cpp:40
 msgid "Planetary Nebulae"
 msgstr "Planetarne magline"
+
+#: finddialog.cpp:39
+msgid "hgrthgertert "
+msgstr ""
+⁠
+#: finddialog.cpp:40
+msgid "translate this textx"
+msgstr ""
