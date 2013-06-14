@@ -1,0 +1,11 @@
+#: finddialog.cpp:38
+msgid "Globular Clusters"
+msgstr "Globularna jata"
+⁠
+#: finddialog.cpp:39
+msgid "Gaseous Nebulae"
+msgstr "Gasne magline"
+⁠
+#: finddialog.cpp:40
+msgid "Planetary Nebulae"
+msgstr "Planetarne magline"
